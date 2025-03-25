@@ -88,7 +88,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background-image: url(checked-tick-svgrepo-com.svg);
+    background-image: url(images/checked.svg);
 }
 
 ul li span {
