@@ -75,7 +75,7 @@ ul li::before {
   height: 28px;
   width: 28px;
   border-radius: 50%;
-  background-image: url(radio-unchecked-svgrepo-com.svg);
+  background-image: url(images/un-checked.svg);
   background-size: cover;
   background-position: center;
   top: 12px;
